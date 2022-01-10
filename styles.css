@@ -16,3 +16,15 @@ blockquote {
 cite {
     font-size: 1.5rem;
 }
+a:link {
+    color: #008000;
+}
+/* for already visited links */
+a:visited {
+    color: blueviolet;
+    font-size: 2rem;
+}
+a:hover {
+    color: red;
+    cursor: pointer;
+}
